@@ -1,9 +1,4 @@
-/*let numArray = [95, 1, 75, 7, 12, 50, 3, 88]
-numArray.slice().sort(function(a, b) {
-  return a - b
-})
-console.log('smallest: ' + numArray[0] + ', largest: ' + numArray[numArray.length - 1]);
-*/
+
 const arr = [14, 58, 20, 77, 66, 82, 42, 67, 42, 4]
 const min = Math.min(...arr)
 const max = Math.max(...arr)
